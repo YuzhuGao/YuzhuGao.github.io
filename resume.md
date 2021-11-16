@@ -34,6 +34,8 @@ __Data Analyst__, PING AN Financial Service      &nbsp; &nbsp; &nbsp; _05/2019-0
 - __Data Modeling__: collected, cleaned data, and built marketing and risk models using SQL, Python, and SAS with machine learning and deep learning algorithms. hands-on experience with Sklearn and Keras.<br>
 - __Data Analysis__: Managed daily data collection, data monitoring, data tracking, and data mining to track business indexes and gain insights into the business. In the loan project, increased loan amount per month from CNY 20 million to 150 million.
 
+***
+
 ## Activities
 
 `2014-2017`
@@ -57,6 +59,7 @@ __Minister of the Operation Department__, Junior Achievement Association    <br>
 __Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer Practice <br>
 - Accomplished a 9-minute documentary film, Won “Excellent Individual”, won Summer Practice Excellent Achievement 
 
+***
 
 ## Awards
 
@@ -80,6 +83,8 @@ __Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer 
 
 `2016`
 - __First-Class Competition Scholarship__, Beijing Normal University
+
+***
 
 ## Publications
 
