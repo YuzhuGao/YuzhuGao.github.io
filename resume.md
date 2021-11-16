@@ -1,6 +1,6 @@
 ---
 layout: resume
-menuorder: 3
+menuorder:5
 menutitle: Resume
 ---
 ## Currently
@@ -41,18 +41,18 @@ __Member__, Beijing Normal University Board of Student Union
 - Supervised the student union work and provided suggestions for the work of the student union,28 in total.
 
 `2014-2017`
-__Commissary in charge of publicity__, Beijing Normal University Board of Student Union   
+__Commissary in charge of Publicity__, Beijing Normal University Board of Student Union   
 
 - Designed and ran A/B tests
 
 `2014-2015`
-__Minister of the operation department__, School of Government Student Union       
+__Minister of the Publicity Department__, School of Government Student Union       
 
 - Took charge of all publicity work of the college, managed four departments, 58 people. 
 Got the teacher's approval and won the "Excellent Student Leader". 
 
 `2014-2015`
-__Minister of the operation department__, Junior Achievement Association    
+__Minister of the Operation Department__, Junior Achievement Association    
 
 - Successfully held "walk into CHINA YOUTH TRAVEL SERVICE", "career start", etc. 
 
@@ -65,7 +65,7 @@ __Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer 
 ## Awards
 
 `2014-2016`
-- __Second-class College Scholarship__, Beijing Normal University
+- __Second-Class College Scholarship__, Beijing Normal University
 
 `2015`
 -  __First Prize in CUMCM__, China Undergraduate Mathematical Contest in Modeling
@@ -74,7 +74,7 @@ __Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer 
 -  __Honorable Mention in CUMCM__, Mathematical Contest In Modeling
 
 `2015`
--  __Excellent Student leader Award__, Mathematical Contest In Modeling
+-  __Excellent Student Leader Award__, Mathematical Contest In Modeling
 
 `2015`
 -  __Summer Practice Excellent Individuals__, Beijing Normal University
@@ -83,7 +83,7 @@ __Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer 
 -  __Summer Practice Excellent Achievement__, the Publicity Department of the Beijing Municipal Committee
 
 `2016`
-- __First-class Competition Scholarship__, Beijing Normal University
+- __First-Class Competition Scholarship__, Beijing Normal University
 
 ## Publications
 
