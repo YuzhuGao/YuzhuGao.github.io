@@ -52,16 +52,16 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Data Scientist__, Alibaba Group
 
-- Task
-- Task
+- A/B Test: Designed and ran A/B tests, including determining hypothesis, test scene, observation index, split scheme, sample size, and the number of test days. Collected and analyzed test data through SQL, and proposed the optimization direction of business strategy based on the experimental results.
+- Index system: built whole life cycle index systems, connected technical indexes with business indexes, designed index boards to improve the efficiency of reading index.
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`05/2019-05/2021`
+__Data Analyst__, PING AN Financial Service
 
-- Task
-- Task
+- Data Modeling: collected, cleaned data, and built marketing and risk models using SQL, Python, and SAS with machine learning and deep learning algorithms. hands-on experience with Sklearn and Keras.
+- Data Analysis: Managed daily data collection, data monitoring, data tracking, and data mining to track business indexes and gain insights into the business. In the loan project, increased loan amount per month from CNY 20 million to 150 million.
 
 
 
