@@ -9,14 +9,13 @@ Current Position Description
 
 ## Education
 
-__National University of Singapore__   &nbsp; &nbsp; &nbsp; _2017 - 2018_ 
-
+__National University of Singapore__   &nbsp; &nbsp; &nbsp; _07/2017 - 08/2018_ 
 Master of Sience in Qualitative Finance
+Main Course: Mathematical Finance, Financial Modelling, Risk Management, Investment and Portfolio Selection, Financial Time Series, Corporate Finance
 
-1995 - 1997
-__University Name__
-
-Degree Awarded 
+__Beijing Normal University__   &nbsp; &nbsp; &nbsp; _09/2013 - 06/2017_ 
+Bachelor of Science in Management Science
+Main Course: Database Management, Linear Algebra, Probability and Statistics, Econometrics, Applied Statistics, Methods of Mathematical Physics, System Engineering
 
 ## Awards
 
