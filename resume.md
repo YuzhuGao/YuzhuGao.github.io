@@ -87,27 +87,6 @@ Accomplished a 9-minute documentary film, Won “Excellent Individual”, won Su
 
 ***
 
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
 ## Presentations
 
 `1994`
