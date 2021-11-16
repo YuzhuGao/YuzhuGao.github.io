@@ -3,6 +3,7 @@ layout: resume
 menuorder:3
 menutitle: Resume
 ---
+
 ## Currently
 
 Current Position Description
@@ -18,6 +19,8 @@ __Bachelor of Science in Management Science__
 Beijing Normal University &nbsp; &nbsp; &nbsp; _09/2013 - 06/2017_ 
 
 - Main Course: Database Management, Linear Algebra, Probability and Statistics, Econometrics, Applied Statistics, Methods of Mathematical Physics, System Engineering
+
+***
 
 ## Occupation
 
