@@ -3,7 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
+## __Currently__
 
 Current Position Description
 
