@@ -9,14 +9,15 @@ Current Position Description
 
 ## Education
 
-__Master of Sience in Qualitative Finance__, National University of Singapore      
+__Master of Sience in Qualitative Finance__
 
-Beijing/China, &nbsp; &nbsp; &nbsp; _07/2017 - 08/2018_ 
+National University of Singapore, &nbsp; &nbsp; &nbsp; _07/2017 - 08/2018_ 
 
 - Main Course: Mathematical Finance, Financial Modelling, Risk Management, Investment and Portfolio Selection, Financial Time Series, Corporate Finance
 
-__Bachelor of Science in Management Science__, Beijing Normal University  
-Singapore, &nbsp; &nbsp; &nbsp; _09/2013 - 06/2017_ 
+__Bachelor of Science in Management Science__
+
+Beijing Normal University, &nbsp; &nbsp; &nbsp; _09/2013 - 06/2017_ 
 
 - Main Course: Database Management, Linear Algebra, Probability and Statistics, Econometrics, Applied Statistics, Methods of Mathematical Physics, System Engineering
 
@@ -34,8 +35,26 @@ __Data Analyst__, PING AN Financial Service      &nbsp; &nbsp; &nbsp; _05/2019-0
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2014-2016`
+Second-class College Scholarship, Beijing Normal University
+
+`2015`
+First Prize in CUMCM, China Undergraduate Mathematical Contest in Modeling
+
+`2016`
+Honorable Mention in CUMCM, Mathematical Contest In Modeling
+
+`2015`
+Excellent Student leader Award, Mathematical Contest In Modeling
+
+`2015`
+Summer Practice Excellent Individuals, Beijing Normal University
+
+`2015`
+Summer Practice Excellent Achievement, the Publicity Department of the Beijing Municipal Committee
+
+`2016`
+First-class Competition Scholarship, Beijing Normal University
 
 ## Publications
 
