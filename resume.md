@@ -3,7 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## __Currently__
+# Currently
 
 Current Position Description
 
@@ -32,6 +32,35 @@ __Data Analyst__, PING AN Financial Service      &nbsp; &nbsp; &nbsp; _05/2019-0
 
 - __Data Modeling__: collected, cleaned data, and built marketing and risk models using SQL, Python, and SAS with machine learning and deep learning algorithms. hands-on experience with Sklearn and Keras.
 - __Data Analysis__: Managed daily data collection, data monitoring, data tracking, and data mining to track business indexes and gain insights into the business. In the loan project, increased loan amount per month from CNY 20 million to 150 million.
+
+## Activities
+
+`2014-2017`
+__Member__, Beijing Normal University Board of Student Union   
+
+- Supervised the student union work and provided suggestions for the work of the student union,28 in total.
+
+`2014-2017`
+__commissary in charge of publicity__, Beijing Normal University Board of Student Union   
+
+- Designed and ran A/B tests
+
+`2014-2015`
+__Minister of the operation department__, School of Government Student Union       
+
+- Took charge of all publicity work of the college, managed four departments, 58 people. 
+Got the teacher's approval and won the "Excellent Student Leader". 
+
+`2014-2015`
+__Minister of the operation department__, Junior Achievement Association    
+
+- Successfully held "walk into CHINA YOUTH TRAVEL SERVICE", "career start", etc. 
+
+`2015`
+__Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer Practice
+
+- Accomplished a 9-minute documentary film, Won “Excellent Individual”, won Summer Practice Excellent Achievement 
+
 
 ## Awards
 
