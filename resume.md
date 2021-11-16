@@ -36,25 +36,25 @@ __Data Analyst__, PING AN Financial Service      &nbsp; &nbsp; &nbsp; _05/2019-0
 ## Awards
 
 `2014-2016`
--(1.) __Second-class College Scholarship__, Beijing Normal University
+1. __Second-class College Scholarship__, Beijing Normal University
 
 `2015`
-- __First Prize in CUMCM__, China Undergraduate Mathematical Contest in Modeling
+2. __First Prize in CUMCM__, China Undergraduate Mathematical Contest in Modeling
 
 `2016`
-- __Honorable Mention in CUMCM__, Mathematical Contest In Modeling
+3. __Honorable Mention in CUMCM__, Mathematical Contest In Modeling
 
 `2015`
-- __Excellent Student leader Award__, Mathematical Contest In Modeling
+4. __Excellent Student leader Award__, Mathematical Contest In Modeling
 
 `2015`
-- __Summer Practice Excellent Individuals__, Beijing Normal University
+5. __Summer Practice Excellent Individuals__, Beijing Normal University
 
 `2015`
-- __Summer Practice Excellent Achievement__, the Publicity Department of the Beijing Municipal Committee
+6. __Summer Practice Excellent Achievement__, the Publicity Department of the Beijing Municipal Committee
 
 `2016`
-- __First-class Competition Scholarship__, Beijing Normal University
+7. __First-class Competition Scholarship__, Beijing Normal University
 
 ## Publications
 
