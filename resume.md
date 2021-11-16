@@ -1,6 +1,6 @@
 ---
 layout: resume
-menuorder:3
+menuorder: 3
 menutitle: Resume
 ---
 
@@ -37,29 +37,24 @@ __Data Analyst__, PING AN Financial Service      &nbsp; &nbsp; &nbsp; _05/2019-0
 ## Activities
 
 `2014-2017`
-__Member__, Beijing Normal University Board of Student Union   
-
+__Member__, Beijing Normal University Board of Student Union   <br>
 - Supervised the student union work and provided suggestions for the work of the student union,28 in total.
 
 `2014-2017`
-__Commissary in charge of Publicity__, Beijing Normal University Board of Student Union   
-
+__Commissary in charge of Publicity__, Beijing Normal University Board of Student Union   <br>
 - Designed and ran A/B tests
 
 `2014-2015`
-__Minister of the Publicity Department__, School of Government Student Union       
-
+__Minister of the Publicity Department__, School of Government Student Union       <br>
 - Took charge of all publicity work of the college, managed four departments, 58 people. 
 Got the teacher's approval and won the "Excellent Student Leader". 
 
 `2014-2015`
-__Minister of the Operation Department__, Junior Achievement Association    
-
+__Minister of the Operation Department__, Junior Achievement Association    <br>
 - Successfully held "walk into CHINA YOUTH TRAVEL SERVICE", "career start", etc. 
 
 `2015`
-__Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer Practice
-
+__Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer Practice <br>
 - Accomplished a 9-minute documentary film, Won “Excellent Individual”, won Summer Practice Excellent Achievement 
 
 
