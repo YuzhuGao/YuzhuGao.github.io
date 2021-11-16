@@ -9,8 +9,7 @@ Current Position Description
 
 ## Education
 
-2017 - 2018
-__National University of Singapore__
+__National University of Singapore__    *2017 - 2018*
 
 Master of Sience in Qualitative Finance
 
