@@ -8,11 +8,11 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Yuzhu Gao
   avatar: bio-photo.jpg
-  bio: "Sparkle && Happy."
-  email: gaoyuzhu@20220.com
+  bio: "Sparkle && Happy." #describe yourself
+  email: gaoyuzhu2020@163.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: linkedin.com/in/yuzhu-gao-0581a6135
+  linkedin: linkedin.com/in/yuzhugao
   github: github.com/yuzhugao
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
