@@ -3,7 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-# Currently
+## Currently
 
 Current Position Description
 
@@ -41,7 +41,7 @@ __Member__, Beijing Normal University Board of Student Union
 - Supervised the student union work and provided suggestions for the work of the student union,28 in total.
 
 `2014-2017`
-__commissary in charge of publicity__, Beijing Normal University Board of Student Union   
+__Commissary in charge of publicity__, Beijing Normal University Board of Student Union   
 
 - Designed and ran A/B tests
 
@@ -65,25 +65,25 @@ __Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer 
 ## Awards
 
 `2014-2016`
-1. __Second-class College Scholarship__, Beijing Normal University
+- __Second-class College Scholarship__, Beijing Normal University
 
 `2015`
-2. __First Prize in CUMCM__, China Undergraduate Mathematical Contest in Modeling
+-  __First Prize in CUMCM__, China Undergraduate Mathematical Contest in Modeling
 
 `2016`
-3. __Honorable Mention in CUMCM__, Mathematical Contest In Modeling
+-  __Honorable Mention in CUMCM__, Mathematical Contest In Modeling
 
 `2015`
-4. __Excellent Student leader Award__, Mathematical Contest In Modeling
+-  __Excellent Student leader Award__, Mathematical Contest In Modeling
 
 `2015`
-5. __Summer Practice Excellent Individuals__, Beijing Normal University
+-  __Summer Practice Excellent Individuals__, Beijing Normal University
 
 `2015`
-6. __Summer Practice Excellent Achievement__, the Publicity Department of the Beijing Municipal Committee
+-  __Summer Practice Excellent Achievement__, the Publicity Department of the Beijing Municipal Committee
 
 `2016`
-7. __First-class Competition Scholarship__, Beijing Normal University
+- __First-class Competition Scholarship__, Beijing Normal University
 
 ## Publications
 
