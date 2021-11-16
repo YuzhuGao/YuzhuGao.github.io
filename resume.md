@@ -34,6 +34,11 @@ __Data Analyst__, PING AN Financial Service      &nbsp; &nbsp; &nbsp; _05/2019-0
 - __Data Modeling__: collected, cleaned data, and built marketing and risk models using SQL, Python, and SAS with machine learning and deep learning algorithms. hands-on experience with Sklearn and Keras.<br>
 - __Data Analysis__: Managed daily data collection, data monitoring, data tracking, and data mining to track business indexes and gain insights into the business. In the loan project, increased loan amount per month from CNY 20 million to 150 million.
 
+__Risk Management Intern__, China Merchants Bank      &nbsp; &nbsp; &nbsp; _11/2018-01/2019_
+
+- Performed KYC and AML process.
+- Conducted in-depth analyses for customer evaluation based on the external database like Dow Jones and Factiva as well as the internal information to mitigate the risk.
+
 ***
 
 ## Activities
