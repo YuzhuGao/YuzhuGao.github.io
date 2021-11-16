@@ -4,10 +4,6 @@ menuorder: 3
 menutitle: Resume
 ---
 
-## Currently
-
-Current Position Description
-
 ## Education
 
 __Master of Sience in Qualitative Finance__ <br>
