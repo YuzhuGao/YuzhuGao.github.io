@@ -91,7 +91,7 @@ Accomplished a 9-minute documentary film, Won “Excellent Individual”, won Su
 
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-![picture](https://github.com/YuzhuGao/YuzhuGao.github.io/blob/649bf0465e94500834cee85807c758b9cbc1ec4e/images/IMG_7906.JPG)
+![mountain](https://github.com/YuzhuGao/YuzhuGao.github.io/blob/649bf0465e94500834cee85807c758b9cbc1ec4e/images/IMG_7906.JPG)
 
 
 <!-- ### Footer
