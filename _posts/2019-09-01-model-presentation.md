@@ -1,7 +1,9 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+title: Model development
+excerpt: Intro: In the loan marketing model design, increased the intention rate. <br>
+Responsibilities: Sorted out customer tags, including static tags, such as cars, houses, and dynamic tags, such as the number of calling our hotline, the number of app clicks, used XGboost algorithm to build customized models with Python. AUC value was 0.78, and the lift chart had good distinction.<br>
+Achievements: After the model was launched, the intention rate increased by 16%.
 # theme: simple
 transition: convex
 tags: [presentation]
