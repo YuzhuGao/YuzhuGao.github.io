@@ -40,7 +40,8 @@ __Risk Management Intern__, China Merchants Bank      &nbsp; &nbsp; &nbsp; _11/2
 ## Activities
 
 `2014-2017`
-- __Member__, Beijing Normal University Board of Student Union   <br>
+- __Member__ <br>
+Beijing Normal University Board of Student Union   <br>
 Supervised the student union work and provided suggestions for the work of the student union,28 in total.
 
 `2014-2017`
