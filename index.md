@@ -12,10 +12,10 @@ Experienced in programming languages (including SQL, Python, R, Hive).
 A good Communicator.    
 Curious mindset and good team player.  
 
-### Current Interests: <br>
+__Current Interests__: <br>
 - Data Pravacy
 
-### Skills：  <br>
+__Skills__：  <br>
 - SQL
 - Python
 - R
