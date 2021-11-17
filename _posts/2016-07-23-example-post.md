@@ -9,4 +9,5 @@ category: blog
 ---
 
 ## winter in Hokkaido
-![niagara26](/images/buffalo/buffalo26.jpeg)
+![japan1](images/IMG_1320.JPG)
+
