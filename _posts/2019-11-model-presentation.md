@@ -7,7 +7,7 @@ transition: convex
 tags: [presentation]
 category: presentation
 ---
-'11/2019-01/2020'
+_11/2019-01/2020 in PING AN Financial Service_
 
 __Intro__: In the loan marketing model design, increased the intention rate.
 
