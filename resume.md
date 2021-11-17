@@ -45,20 +45,24 @@ Beijing Normal University Board of Student Union   <br>
 Supervised the student union work and provided suggestions for the work of the student union,28 in total.
 
 `2014-2017`
-- __Commissary in charge of Publicity__, Beijing Normal University Board of Student Union   <br>
+- __Commissary in charge of Publicity__ <br>
+Beijing Normal University Board of Student Union   <br>
 Designed and ran A/B tests
 
 `2014-2015`
-- __Minister of the Publicity Department__, School of Government Student Union       <br>
+- __Minister of the Publicity Department__<br>
+School of Government Student Union       <br>
 Took charge of all publicity work of the college, managed four departments, 58 people. 
 Got the teacher's approval and won the "Excellent Student Leader". 
 
 `2014-2015`
-- __Minister of the Operation Department__, Junior Achievement Association    <br>
+- __Minister of the Operation Department__<br>
+Junior Achievement Association    <br>
 Successfully held "walk into CHINA YOUTH TRAVEL SERVICE", "career start", etc. 
 
 `2015`
-- __Team Leader__, Anti-Japanese War Veteran Status Quo in Yunnan Province Summer Practice <br>
+- __Team Leader__<br>
+Anti-Japanese War Veteran Status Quo in Yunnan Province Summer Practice <br>
 Accomplished a 9-minute documentary film, Won “Excellent Individual”, won Summer Practice Excellent Achievement 
 
 ***
@@ -66,25 +70,32 @@ Accomplished a 9-minute documentary film, Won “Excellent Individual”, won Su
 ## Awards
 
 `2014-2016`
-- __Second-Class College Scholarship__, Beijing Normal University
+- __Second-Class College Scholarship__<br>
+Beijing Normal University
 
 `2015`
--  __First Prize in CUMCM__, China Undergraduate Mathematical Contest in Modeling
+-  __First Prize in CUMCM__<br>
+China Undergraduate Mathematical Contest in Modeling
 
 `2016`
--  __Honorable Mention in CUMCM__, Mathematical Contest In Modeling
+-  __Honorable Mention in CUMCM__<br>
+Mathematical Contest In Modeling
 
 `2015`
--  __Excellent Student Leader Award__, Mathematical Contest In Modeling
+-  __Excellent Student Leader Award__<br>
+Mathematical Contest In Modeling
 
 `2015`
--  __Summer Practice Excellent Individuals__, Beijing Normal University
+-  __Summer Practice Excellent Individuals__<br>
+Beijing Normal University
 
 `2015`
--  __Summer Practice Excellent Achievement__, the Publicity Department of the Beijing Municipal Committee
+-  __Summer Practice Excellent Achievement__<br>
+Publicity Department of the Beijing Municipal Committee
 
 `2016`
-- __First-Class Competition Scholarship__, Beijing Normal University
+- __First-Class Competition Scholarship__<br>
+Beijing Normal University
 
 ***
 
