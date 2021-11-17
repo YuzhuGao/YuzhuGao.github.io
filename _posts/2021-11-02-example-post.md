@@ -8,6 +8,26 @@ comments: true
 category: blog
 ---
 
-## winter in Hokkaido
-![japan1](images/IMG_1320.JPG)
+## Yunnan Province，China
+![japan1](/images/IMG_3030.JPG)
+
+![japan1](/images/IMG_3031.JPG)
+
+
+## Hokkaido，Japan
+
+![japan1](/images/IMG_3032.JPG)
+
+![japan1](/images/IMG_3033.JPG)
+
+![japan1](/images/IMG_3034.JPG)
+
+## Tailand
+![japan1](/images/IMG_3035.JPG)
+
+## Singapore
+
+![japan1](/images/IMG_3036.JPG)
+
+![japan1](/images/IMG_3037.JPG)
 
