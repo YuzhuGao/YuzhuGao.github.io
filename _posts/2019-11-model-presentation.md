@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Model development
-excerpt: After the model was launched, the intention rate increased by 16%. 
+excerpt: Increased the intention rate by 16%. 
 # theme: simple
 transition: convex
 tags: [presentation]
