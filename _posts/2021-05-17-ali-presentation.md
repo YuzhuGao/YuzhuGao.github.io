@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A/B tests on live icons
+title: A/B Tests on Shopping Live Icons
 excerpt: Increased the number of active buyers by 4%.
 # theme: simple
 transition: convex
