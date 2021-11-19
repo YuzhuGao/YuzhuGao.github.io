@@ -1,7 +1,7 @@
 ---
-layout: slide
+layout: post
 title: A/B tests on live icons
-excerpt: After the live icons went online, the number of active buyers increased by 4%.
+excerpt: Increased the number of active buyers by 4%.
 # theme: simple
 transition: convex
 tags: [presentation]
