@@ -7,7 +7,7 @@ transition: convex
 tags: [presentation]
 category: presentation
 ---
-_02/2020-04/2021 in PING AN Financial Service_
+_02/2020-04/2021 in Ping An Financial Service_
 
 __Intro__: <br>
 Based on a 1billion database, dug out the potential loan clients to support the loan business of Ping An Bank.
