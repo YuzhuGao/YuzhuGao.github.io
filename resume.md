@@ -7,14 +7,15 @@ menutitle: Resume
 ## Education
 
 __Master of Sience in Qualitative Finance__ <br>
-National University of Singapore &nbsp; &nbsp; _07/2017 - 08/2018_ 
+National University of Singapore &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _07/2017 - 08/2018_ 
 
-- Main Course: Mathematical Finance, Financial Modelling, Risk Management, Investment and Portfolio Selection, Financial Time Series, Corporate Finance
+- Main Course: Mathematical Finance, Financial Modelling and Computation, Risk Management, Investment and Portfolio Selection, Financial Time Series, Corporate Finance, Structured Products.
 
 __Bachelor of Science in Management Science__   
 Beijing Normal University &nbsp; &nbsp; &nbsp; _09/2013 - 06/2017_ 
 
-- Main Course: Database Management, Linear Algebra, Probability and Statistics, Econometrics, Applied Statistics, Methods of Mathematical Physics, System Engineering
+- Main Course: Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Methods of Mathematical Physics, Operations Research, Applied Statistics, Stochastic Process,Course Experiment of Database Principle,Programming in C,Windows Programming,Computer Modelling and Simulation.
+
 
 ***
 
