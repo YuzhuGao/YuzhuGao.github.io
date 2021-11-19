@@ -7,6 +7,9 @@ transition: convex
 tags: [presentation]
 category: presentation
 ---
+
+_07/2021-08/2021 in Alibaba Group_
+
 __Into__ : <br>
 Optimized shopping live icons to boost active buyers.
 
