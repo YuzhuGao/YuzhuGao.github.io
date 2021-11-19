@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Model development
+title: Model Development
 excerpt: Increased the intention rate by 16%. 
 # theme: simple
 transition: convex
 tags: [presentation]
 category: presentation
 ---
-_11/2019-01/2020 in PING AN Financial Service_
+_11/2019-01/2020 in Ping An Financial Service_
 
 __Intro__:   
 In the loan marketing model design, increased the intention rate.
