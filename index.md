@@ -10,7 +10,7 @@ Hands-on experience with regression, classification, clustering and time series 
 Experienced with popular machine learning and deep learning open source libraries (including sklearn, Keras, Tensorflow and Pytorch).  
 8-year experience in programming.   
 A good Communicator.    
-Curious mindset and good team player.  
+Curious mindset and a good team player.  
 
 __Current Interests__: <br>
 - Data Privacy and Security
