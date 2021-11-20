@@ -50,19 +50,18 @@ _China Merchants Bank_, _11/2018-01/2019_
 ## Activities
 
 `2014-2017`
-- __Member__ <br>
-_Beijing Normal University Board of Student Union_   <br>
-Supervised the student union work and provided suggestions for the work of the student union,28 in total.
+- __Board Member__ <br>
+_Beijing Normal University Student Union Board of Directors_   <br>
+Oversaw the student union activities and adopted policies in the best interest of students.
 
 `2014-2017`
-- __Commissary in charge of Publicity__ <br>
-_Beijing Normal University Board of Student Union_   <br>
-Designed and ran A/B tests
+- __Class Promoter__ <br>
+Responsible for taking photos and producing videos in class activities.
 
 `2014-2015`
 - __Minister of the Publicity Department__<br>
 _School of Government Student Union_       <br>
-Took charge of all publicity work of the college, managed four departments, 58 people. 
+Managed four departments,including  58 people. 
 Got the teacher's approval and won the "Excellent Student Leader". 
 
 `2015`
