@@ -64,7 +64,7 @@ Operated WeChat public account, Weibo and other new media platforms to deliver i
 _Anti-Japanese War Veteran Status Quo in Yunnan Province Summer Practice_ <br>
 Recorded interviewes with veterans and accomplished a 9-minute documentary film. Won “Excellent Individual” and "Summer Practice Excellent Achievement"
 
-`2014-2017'
+`2014-2017`
 - __Class Promoter__ <br>
 Responsible for taking photos and producing videos in class activities.
 
