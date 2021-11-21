@@ -54,20 +54,20 @@ _China Merchants Bank_, _11/2018-01/2019_
 _Beijing Normal University Student Union Board of Directors_   <br>
 Oversaw the student union activities and adopted policies in the best interest of students.
 
-`2014-2017`
-- __Class Promoter__ <br>
-Responsible for taking photos and producing videos in class activities.
-
 `2014-2015`
 - __Minister of the Publicity Department__<br>
 _School of Government Student Union_       <br>
-Managed four departments,including  58 people. 
-Got the teacher's approval and won the "Excellent Student Leader". 
+Operated WeChat public account, Weibo and other new media platforms to deliver information to students. Completed posters, promotional videos, and micro movies to spread creativity throughout the campus. Won "Excellent Student Leader". 
 
 `2015`
 - __Team Leader__<br>
 _Anti-Japanese War Veteran Status Quo in Yunnan Province Summer Practice_ <br>
-Accomplished a 9-minute documentary film, Won “Excellent Individual”, won Summer Practice Excellent Achievement 
+Recorded interviewes with veterans and accomplished a 9-minute documentary film. Won “Excellent Individual” and "Summer Practice Excellent Achievement"
+
+`2014-2017'
+- __Class Promoter__ <br>
+Responsible for taking photos and producing videos in class activities.
+
 
 ***
 
