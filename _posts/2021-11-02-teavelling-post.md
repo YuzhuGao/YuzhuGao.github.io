@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Travelling
-excerpt: Beautiful moments
+excerpt: Impressive places
 modified: 11/02/2021, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
 
-## Yunnan Province，China
+## Dali，China
 ![japan1](/images/IMG_3030.JPG)
 
 ![japan1](/images/IMG_3031.JPG)
