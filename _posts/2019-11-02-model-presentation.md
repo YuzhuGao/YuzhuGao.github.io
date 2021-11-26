@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Model Development
-excerpt: Increased the intention rate by 16%. 
+excerpt: Increased the intention rate of the supplied list by 16%. 
 # theme: simple
 transition: convex
 tags: [presentation]
@@ -10,10 +10,10 @@ category: presentation
 _11/2019-01/2020 in Ping An Financial Service_
 
 __Intro__:   
-In the loan marketing model design, increased the intention rate.
+Built models to increase the intention rate of the supplied list.
 
 __Responsibilities__:    
-Sorted out customer tags, including static tags, such as cars, houses, and dynamic tags, such as the number of calling our hotline, the number of app clicks, used XGboost algorithm to build customized models with Python. AUC value was 0.78, and the lift chart had good distinction.
+Sorted out various types of customer features, including static tags, such as cars, houses, and education background, and dynamic tags, such as the number of calling our hotline, the number of clicks on some apps. Used XGboost algorithm to build customized models with Python for regression.
 
 __Achievements__:    
-After the model was launched, the intention rate increased by 16%.
+AUC value hit 0.78, and the lift chart had a clear distinction. After the model was launched, the intention rate increased by 16%.
