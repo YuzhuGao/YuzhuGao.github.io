@@ -1,7 +1,7 @@
 ---
 layout: post
 title: List Mining for Loan
-excerpt: Increased loan amount per month from CNY 20 million to 150 million with KPI completion rate116%.
+excerpt: Increased the loan amount from CNY 20 million to 150 million per month with KPI completion rate 116%.
 # theme: simple
 transition: convex
 tags: [presentation]
@@ -10,11 +10,11 @@ category: presentation
 _02/2020-04/2021 in Ping An Financial Service_
 
 __Intro__: <br>
-Based on a 1billion database, dug out the potential loan clients to support the loan business of Ping An Bank.
+Dug out the potential loanees from the one billion-capacity database to support the loan releasing business.
 
 __Responsibilities__: <br>
-- Investigated business logic, used multi-type models and rules to achieve list optimization. <br>
-- Built business key index systems, through daily data collection, data monitoring, data tracking to gain insights into the business, and iterated the list-selection strategy to maximize the list capacity.
+- Investigated the inside business logic and used multi-model techniques to target prospective customers and maximize profits. <br>
+- Took charge of the post process containing the index observation, performance tracking, strategy iteration, and daily report.
 
 __Achievements__: <br>
-Increased loan amount per month from CNY 20 million to 150 million with KPI completion rate116%. Increased productivity per 10k lists by 190% from 290k to 850k.
+Increased the loan amount from CNY 20 million to 150 million per month. Enhanced productivity per 10k lists nearly 2 times from CNY 290k to 850k.
