@@ -44,6 +44,7 @@ _China Merchants Bank_, _11/2018-01/2019_
 
     - Took charge of KYC and AML processes.
     - Explored in-depth analytic methods for customer evaluation based on internal customer profiles and external databases like Dow Jones and Factiva to mitigate credit risk.
+    
 ***
 
 ## Activities
