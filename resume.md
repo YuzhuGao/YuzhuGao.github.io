@@ -82,7 +82,7 @@ _Beijing Normal University_
 _China Undergraduate Mathematical Contest in Modeling_
 
 `2016`
--  __Honorable Mention in CUMCM__<br>
+-  __Honorable Mention in MCM__<br>
 _Mathematical Contest In Modeling_
 
 `2015`
