@@ -87,7 +87,7 @@ _Mathematical Contest In Modeling_
 
 `2015`
 -  __Excellent Student Leader Award__<br>
-_Mathematical Contest In Modeling_
+_Beijing Normal University_
 
 `2015`
 -  __Summer Practice Excellent Individuals__<br>
