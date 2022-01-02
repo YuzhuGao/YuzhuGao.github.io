@@ -6,7 +6,7 @@ menutitle: Resume
 
 ## Education
 
-- __Master of Science in Qualitative Finance__ <br>
+- __Master of Science in Quantitative Finance__ <br>
 _National University of Singapore_, _07/2017 - 08/2018_ 
 
     - Main Course:     
