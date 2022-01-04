@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Model Development
+title: Marketing Model Development
 excerpt: Increased the intention rate of the supplied list by 16%. 
 # theme: simple
 transition: convex
