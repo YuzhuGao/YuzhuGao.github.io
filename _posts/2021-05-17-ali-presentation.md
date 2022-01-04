@@ -10,7 +10,7 @@ category: presentation
 
 _07/2021-08/2021 in Alibaba Group_
 
-__Into__ : <br>
+__Intro__ : <br>
 Guided live-streaming shopping icons setting in order to effectively notify and attract active buyers.
 
 __Responsibilities__: <br>
