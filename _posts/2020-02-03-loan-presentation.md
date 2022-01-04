@@ -7,7 +7,7 @@ transition: convex
 tags: [presentation]
 category: presentation
 ---
-_02/2020-04/2021 in Ping An Financial Service_
+_04/2020-04/2021 in Ping An Financial Service_
 
 __Intro__: <br>
 Dug out the potential loanees from the one billion-capacity database to support the loan releasing business.
