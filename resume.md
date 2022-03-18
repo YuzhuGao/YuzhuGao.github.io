@@ -90,11 +90,11 @@ _Mathematical Contest In Modeling_
 _Beijing Normal University_
 
 `2015`
--  __Summer Practice Excellent Individuals__<br>
+-  __Excellent Individuals in Summer Practice__<br>
 _Beijing Normal University_
 
 `2015`
--  __Summer Practice Excellent Achievement__<br>
+-  __Excellent Achievements in Capital University Students' Summer Practice__<br>
 _Publicity Department of the Beijing Municipal Committee_
 
 `2016`
